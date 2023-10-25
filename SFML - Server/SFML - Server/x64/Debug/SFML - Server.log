@@ -1,0 +1,306 @@
+﻿  Server.cpp
+G:\VISUAL STUDIO\vs\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(159,49): warning C4101: e: неиспользованная локальная переменная
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(202,49): warning C4101: e: неиспользованная локальная переменная
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(878,35): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(879,39): warning C4018: <: несоответствие типов со знаком и без знака
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1039,80): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1039,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1040,60): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1040,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1044,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1049,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1049,67): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1050,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1050,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1052,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1063,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1064,34): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1068,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1075,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1075,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1080,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1093,36): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1094,34): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1098,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1105,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1105,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1110,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1122,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1127,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1136,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1136,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1137,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1146,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1151,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1160,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1160,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1161,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1167,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1167,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1168,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1168,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1172,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1177,78): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1177,64): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1178,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1178,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1180,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1186,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1189,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1189,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1194,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1200,26): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1203,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1203,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1206,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1212,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1212,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1213,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1213,52): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1220,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1220,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1225,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1239,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1239,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1240,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1254,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1265,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1283,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1283,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1299,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1312,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1312,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1315,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1315,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1318,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1318,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1321,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1321,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1324,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1324,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1327,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1327,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1330,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1330,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1333,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1333,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1336,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1336,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1339,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1339,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1342,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1342,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1345,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1345,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1348,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1348,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1351,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1351,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1354,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1354,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1357,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1357,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1360,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1360,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1363,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1363,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1366,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1366,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1369,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1369,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1372,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1372,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1375,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1375,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1378,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1378,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1381,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1381,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1384,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1384,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1387,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1387,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1401,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1401,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1453,77): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1453,63): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1459,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1459,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1465,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1465,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1471,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1471,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1477,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1477,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1483,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1483,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1489,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1489,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1495,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1495,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1501,81): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1501,65): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1507,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1507,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1513,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1513,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1519,82): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1519,66): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1529,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1530,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1531,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1532,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1533,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1534,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1535,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1536,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1537,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1538,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1539,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+G:\Львовское Игра\Proj2\SFML - Server\SFML - Server\Server.cpp(1540,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  SFML - Server.vcxproj -> G:\Львовское Игра\Proj2\SFML - Server\x64\Debug\SFML - Server.exe
